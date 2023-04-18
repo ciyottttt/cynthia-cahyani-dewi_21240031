@@ -14,4 +14,4 @@ Saya  mahasiswa  politeknik negeri media kreatif jakarta dengan  program studi t
 
 Dalam hal ini keahlian saya lebih menonjol pada design grafis berikut salah satu hasil design saya.
 
-<
+![alt tex](https://user-images.githubusercontent.com/109905149/232801205-57b9e4fe-171d-467b-b052-770a83bb3086.png?raw=true)
